@@ -1,7 +1,7 @@
 # Iris_recognition
 Implemention of iris recognition algorithm from Ma et al., 2003 paper using CASIA Iris Image Database (version 1.0) (CASIA-IrisV1)
 
-To run the code, download the dataset and unzip in the same directory as all other *.py* files
+To run the code, download the dataset and unzip in the same directory as all other *.py* files  
 Go to that directory in terminal, and type
 
 ```bash
